@@ -54,11 +54,11 @@
                     </config>
                     <config key="excluded_names">
                         <entry key="array-size" type="xint" value="5"/>
-                        <entry key="0" type="xstring" value="Age"/>
-                        <entry key="1" type="xstring" value="3"/>
-                        <entry key="2" type="xstring" value="2"/>
-                        <entry key="3" type="xstring" value="1"/>
-                        <entry key="4" type="xstring" value="Number of Doctors Visited"/>
+                        <entry key="0" type="xstring" value="3"/>
+                        <entry key="1" type="xstring" value="2"/>
+                        <entry key="2" type="xstring" value="1"/>
+                        <entry key="3" type="xstring" value="Number of Doctors Visited"/>
+                        <entry key="4" type="xstring" value="Age"/>
                     </config>
                     <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
                     <config key="name_pattern">
@@ -81,7 +81,7 @@
             </config>
         </config>
         <config key="outputs">
-            <config key="dense_2_0:0">
+            <config key="dense_3_0:0">
                 <config key="output_converter_Internals">
                     <entry key="SettingsModelID" type="xstring" value="SMID_stringarray"/>
                     <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -95,7 +95,7 @@
                     <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
                     <entry key="EnabledStatus" type="xboolean" value="true"/>
                 </config>
-                <entry key="output_prefix" type="xstring" value="dense_2/Softmax:0_"/>
+                <entry key="output_prefix" type="xstring" value="dense_3/Softmax:0_"/>
             </config>
         </config>
         <config key="outputs_ordered_Internals">
@@ -104,7 +104,7 @@
         </config>
         <config key="outputs_ordered">
             <entry key="array-size" type="xint" value="1"/>
-            <entry key="0" type="xstring" value="dense_2_0:0"/>
+            <entry key="0" type="xstring" value="dense_3_0:0"/>
         </config>
         <entry key="python3_command" type="xstring" value=""/>
         <config key="gpu_selection_settings">
@@ -135,12 +135,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 108, Cols: 20"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 215, Cols: 20"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="9aa576b4-107d-47d8-a047-197157d06d9e"/>
+        <entry key="file_store_id" type="xstring" value="f539d2ab-8f39-4349-ae96-3226aa83a72f"/>
     </config>
 </config>

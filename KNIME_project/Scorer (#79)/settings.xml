@@ -36,25 +36,25 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Accuracy"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.5462962962962963"/>
+            <entry key="value" type="xdouble" value="0.5255813953488372"/>
         </config>
         <config key="Variable_6">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="Error"/>
             <entry key="class" type="xstring" value="DOUBLE"/>
-            <entry key="value" type="xdouble" value="0.4537037037037037"/>
+            <entry key="value" type="xdouble" value="0.4744186046511628"/>
         </config>
         <config key="Variable_7">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="#Correct"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="59"/>
+            <entry key="value" type="xint" value="113"/>
         </config>
         <config key="Variable_8">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="#False"/>
             <entry key="class" type="xstring" value="INTEGER"/>
-            <entry key="value" type="xint" value="49"/>
+            <entry key="value" type="xint" value="102"/>
         </config>
         <config key="Variable_9">
             <entry key="type" type="xstring" value="variable"/>
@@ -123,6 +123,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="9e280bf4-583c-4eb9-b011-0b9ec159a688"/>
+        <entry key="file_store_id" type="xstring" value="e5c82a71-0cd4-490d-99db-573a094f2371"/>
     </config>
 </config>

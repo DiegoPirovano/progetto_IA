@@ -482,7 +482,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_17">
-        <entry key="column_name" type="xstring" value="dense_2/Softmax:0_0"/>
+        <entry key="column_name" type="xstring" value="dense_3/Softmax:0_0"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -493,13 +493,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.17546704411506653"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.21147072315216064"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.3883722424507141"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.3896661698818207"/>
                 </config>
             </config>
         </config>
@@ -507,7 +507,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_18">
-        <entry key="column_name" type="xstring" value="dense_2/Softmax:0_1"/>
+        <entry key="column_name" type="xstring" value="dense_3/Softmax:0_1"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -518,13 +518,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.41172322630882263"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.4266629219055176"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.6694911122322083"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.60584956407547"/>
                 </config>
             </config>
         </config>
@@ -532,7 +532,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_19">
-        <entry key="column_name" type="xstring" value="dense_2/Softmax:0_2"/>
+        <entry key="column_name" type="xstring" value="dense_3/Softmax:0_2"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>
@@ -543,13 +543,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.11648770421743393"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.0965435728430748"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.29679155349731445"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.26575711369514465"/>
                 </config>
             </config>
         </config>
